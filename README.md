@@ -1,3 +1,8 @@
+
+Link of hosted website:-https://instagram-clone-97f24.web.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
